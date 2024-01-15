@@ -1,2 +1,2 @@
-# MyProjects
+# Console projects
 
